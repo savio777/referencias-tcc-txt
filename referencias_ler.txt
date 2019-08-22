@@ -16,6 +16,7 @@ https://computerworld.com.br/2018/02/23/blockchain-vai-acabar-com-cartorios/
 https://www.technologyreview.com/s/539171/why-nasdaq-is-betting-on-bitcoins-blockchain/
 
 artigo bitcoin em pt-br:
+https://bitcoin.org/files/bitcoin-paper/bitcoin_pt_br.pdf
 https://foxbit.com.br/blog/whitepaper-do-bitcoin-portugues/
 
 artigos:
@@ -48,6 +49,16 @@ CRIPTOMOEDAS E BLOCKCHAIN NO PROCESSOS DE INOVAÇÃO SOCIAL ~> file:///home/savi
 http://periodicos.unesc.net/admcomex/article/view/4461
 
 
-cartorio:
+blockchain analise evolutiva:
 http://www.revistarefas.com.br/index.php/RevFATECZS/article/view/98
+
+cartorio:
 https://revistas.ufpr.br/campos/article/view/42961
+https://cartorionobrasil.com.br/servicos-de-cartorio/qual-a-historia-da-origem-do-cartorio/
+
+tabelião:
+https://www.lfg.com.br/conteudos/artigos/geral/como-funciona-um-tabelionato-de-notas-no-brasil
+
+lei brasileira:
+http://www.planalto.gov.br/ccivil_03/leis/L8935.htm
+
