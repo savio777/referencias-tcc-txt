@@ -30,6 +30,9 @@ http://bdm.unb.br/bitstream/10483/16252/1/2016_TimoteoPimentaPires_tcc.pdf
 artigo blockchain:
 https://j2-capital.com/wp-content/uploads/2017/11/AIR-2016-Blockchain.pdf
 
+prova de trabalho:
+http://www.hashcash.org/papers/hashcash.pdf
+
 artigos mises brasil:
 https://www.mises.org.br/Article.aspx?id=2722  
 https://www.mises.org.br/Article.aspx?id=2160
@@ -37,6 +40,13 @@ https://www.mises.org.br/Article.aspx?id=2160
 artigos p2p:
 http://repositorio.ipv.pt/handle/10400.19/2554
 http://periodicos.ufpb.br/index.php/tematica/article/view/21423
+
+artigo socket.io-p2p:
+https://github.com/spromano/WebRTC_Book
+
+livro socket.io-p2p
+https://books.google.com.br/books?hl=pt-BR&lr=&id=RPNfAwAAQBAJ&oi=fnd&pg=PR2&dq=socket.io+p2p&ots=pbUn81HJgY&sig=XbpxnvHSla6ZSfQ4Vqyzl8qgDhA#v=onepage&q&f=false
+
 
 metodologia de pesquisa:
 MTL Fleury - 2017 Pesquisa Aplicada
