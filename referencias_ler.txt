@@ -3,6 +3,12 @@ https://books.google.com.br/books?hl=pt-BR&lr=&id=VTNtDwAAQBAJ&oi=fnd&pg=PR9&dq=
 https://books.google.com.br/books?hl=pt-BR&lr=lang_pt&id=FyprDwAAQBAJ&oi=fnd&pg=PT7&dq=seguran%C3%A7a+da+informa%C3%A7%C3%A3o&ots=2Ymh7SyGYI&sig=Tg6URtONAKn9p7LJKHK7HHx6kv4#v=onepage&q=seguran%C3%A7a%20da%20informa%C3%A7%C3%A3o&f=false 
 https://books.google.com.br/books?hl=pt-BR&lr=lang_pt&id=VTNtDwAAQBAJ&oi=fnd&pg=PR9&dq=contratos+inteligentes+blockchain&ots=RbCtAauhY-&sig=pj_nqfzyL2ZaKd-Y_WRuN0WxtgE#v=onepage&q=contratos%20inteligentes%20blockchain&f=false
 
+livro sobre javascript:
+https://books.google.com.br/books?id=LRiYDgAAQBAJ&dq=javascript&hl=pt-BR&source=gbs_navlinks_s
+
+livro sobre nodejs:
+https://books.google.com.br/books?id=zBdiDwAAQBAJ&dq=nodejs&hl=pt-BR&source=gbs_navlinks_s
+
 sites de implementações da ideia:
 https://originalmy.com/about
 https://originalmy.com/registro-de-autenticidade
