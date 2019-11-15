@@ -1,1 +1,3 @@
 COSTA, Rostand et al. Uso Não Financeiro de Blockchain: Um Estudo de Caso Sobre o Registro, Autenticação e Preservação de Documentos Digitais Acadêmicos. Workshop em Blockchain: Teoria, Tecnologias e Aplicações (WBlockchain_SBRC), [S.l.], v. 1, n. 1/2018, may 2018. Disponível em: <http://ojs.sbc.org.br/index.php/wblockchain/article/view/2356>. Acesso em: 19 jan. 2019.
+
+XAVIER, Alan; MARTINS, Fábio; PIMENTEL, Ricardo; CARVALHO, Denis . Aplicação da UML no contexto das metodologias ágeis. In: ENCONTRO NACIONAL DE COMPUTAÇÃO DOS INSTITUTOS FEDERAIS (ENCOMPIF), 6. , 2019, Belém. Anais do VI Encontro Nacional de Computação dos Institutos Federais. Porto Alegre: Sociedade Brasileira de Computação, june 2019 .
