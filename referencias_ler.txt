@@ -6,6 +6,7 @@ https://books.google.com.br/books?hl=pt-BR&lr=lang_pt&id=VTNtDwAAQBAJ&oi=fnd&pg=
 livro requisitos funcioanais e não funcioanis:
 https://books.google.com.br/books?id=oze6DwAAQBAJ&dq=requisitos+funcionais&hl=pt-BR&source=gbs_navlinks_s
 https://books.google.com.br/books?id=MYdiDwAAQBAJ&dq=machado+2018+requisitos+funcionais+e+n%C3%A3o+funcional&hl=pt-BR&source=gbs_navlinks_s
+https://books.google.com.br/books?id=mJxMDwAAQBAJ&dq=importancia+da+uml&lr=&hl=pt-BR&source=gbs_navlinks_s
 
 livro bitcoin para programadores 2018:
 https://btcparaprogramadores.marcoagner.org/
