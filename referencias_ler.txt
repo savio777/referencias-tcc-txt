@@ -39,8 +39,8 @@ artigos:
 https://bitcoin.org/bitcoin.pdf
 https://ieeexplore.ieee.org/abstract/document/7467408
 http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5630/material-cripto-seg/crpt_trabalho_ecdsa.pdf
-Uma análise simples de eficiência e segurança da Tecnologia Blockchain ~ Carlo Kleber da Silva Rodrigues
-Estudo De Mapeamento Sistemático Sobre As Tendências E Desafios Do Blockchain ~> file:///home/savio/Downloads/231244-78935-1-PB%20(1).pdf
+https://revistas.unifacs.br/index.php/rsc/article/view/5078
+https://periodicos.ufpe.br/revistas/gestaoorg/article/download/231244/26094
 http://bdm.unb.br/bitstream/10483/16252/1/2016_TimoteoPimentaPires_tcc.pdf
 
 principios da segurança da informação:
