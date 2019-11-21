@@ -62,9 +62,6 @@ http://repositorio.ipv.pt/handle/10400.19/2554
 http://periodicos.ufpb.br/index.php/tematica/article/view/21423
 https://www.cin.ufpe.br/~cak/publications/sbrc2004_minicurso_p2p.pdf
 
-artigo socket.io-p2p:
-https://github.com/spromano/WebRTC_Book
-
 livro socket.io-p2p
 https://books.google.com.br/books?hl=pt-BR&lr=&id=RPNfAwAAQBAJ&oi=fnd&pg=PR2&dq=socket.io+p2p&ots=pbUn81HJgY&sig=XbpxnvHSla6ZSfQ4Vqyzl8qgDhA#v=onepage&q&f=false
 
